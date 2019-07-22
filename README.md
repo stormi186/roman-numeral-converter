@@ -1,5 +1,17 @@
 # Roman Numeral Converter
 
+The numeric system represented by Roman numerals originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages. Roman numerals, as used today, employ seven symbols, each with a fixed integer value.
+
+See the below table the Symbol - Value pairs:
+
+I - 1
+V - 5
+X - 10
+L - 50
+C - 100
+D - 500
+M - 1000
+
 ## User Stories
 
 - User can to enter one decimal number in an input field
